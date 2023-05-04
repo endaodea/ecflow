@@ -41,7 +41,7 @@ Choose a name for your ECF server and add the Host name and port number you note
   :height: 0.16667in
 
 The yellow boxes are called nodes. With the left mouse button click on
-the black triangle. This will expand the node. Repeat for node called
+the black triangle. This will expand the node. Repeat for the node called
 'test'. 
 
 .. note::
@@ -71,7 +71,7 @@ click on the right mouse button, and choose **requeue** .
 
 You will notice that the :term:`node` changed colour. The colours reflect the :term:`status` of the nodes.
 
-There can be a long between the job changing status and that change being reflected in the ecflow_ui window (set to 60s as default). To update the current state more quickly in that window, click the
+There can be a long wait between the job changing status and that change being reflected in the ecflow_ui window (set to 60s as default). To update the current state more quickly in that window, click the
 refresh (or F5).
 
 .. image:: /_static/tutorial/using_ecflow_ui/image25.png
